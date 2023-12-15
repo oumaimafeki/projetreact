@@ -1,0 +1,228 @@
+{
+  "Produit": [
+    {
+      "id": 1,
+      "reference": "LIBRE",
+      "designation": "EAU DE PARFUM  FEMME 50ml",
+      "marque": "YVES SAINT LAURENT",
+      "prixVente": 328,
+      "qtestock": 100,
+      "imageartpetitf": "images/i3.jpeg"
+    },
+    {
+      "id": 2,
+      "reference": "PURE POISON",
+      "designation": "Eau De Parfum Femme 50ml",
+      "marque": "DIOR",
+      "prixVente": 539,
+      "qtestock": 150,
+      "imageartpetitf": "images/i1.jpeg"
+    },
+    {
+      "id": 3,
+      "reference": "Mon Paris",
+      "designation": "Eau De Parfum Femme 90ml",
+      "marque": "YVES SAINT LAURENT",
+      "prixVente": 454.75,
+      "qtestock": 200,
+      "imageartpetitf": "images/i5.jpeg"
+    },
+    {
+      "id": 4,
+      "reference": "COCO",
+      "designation": "Eau De Parfum Femme 100ml",
+      "marque": "Chanel",
+      "prixVente": 515,
+      "qtestock": 120,
+      "imageartpetitf": "images/i6.jpeg"
+    },
+    {
+      "id": 5,
+      "reference": "Bleu de chanel",
+      "designation": "Eau De Parfum Homme 50ml",
+      "marque": "Chanel",
+      "prixVente": 359,
+      "qtestock": 300,
+      "imageartpetitf": "images/i7.jpeg"
+    },
+    {
+      "id": 6,
+      "reference": "Miss Dior",
+      "designation": "Eau De Parfum Femme 50ml",
+      "marque": "DIOR",
+      "prixVente": 383,
+      "qtestock": 350,
+      "imageartpetitf": "images/i8.jpeg"
+    },
+    {
+      "id": 7,
+      "reference": "Lacoste L'Homme",
+      "designation": "Lacoste L'Homme Lacoste Timeless 50 ml",
+      "marque": "Lacoste",
+      "prixVente": 200,
+      "qtestock": 350,
+      "imageartpetitf": "images/i9.jpeg"
+    },
+    {
+      "id": 9,
+      "reference": "Lacoste",
+      "designation": "Lacoste Pour Femme 100 ml",
+      "marque": "Lacoste",
+      "prixVente": 449,
+      "qtestock": 250,
+      "imageartpetitf": "images/i10.jpeg"
+    },
+    {
+      "id": 10,
+      "reference": "Flora by Gucci",
+      "designation": "Eau De Parfum Pour Femme 100 ml",
+      "marque": "Gucci",
+      "prixVente": 320,
+      "qtestock": 110,
+      "imageartpetitf": "images/i12.jpeg"
+    },
+    {
+      "id": 11,
+      "reference": "Hugo Boss",
+      "designation": "Hugo Boss BOSS The Scent Absolute 100 ml",
+      "marque": "BOSS",
+      "prixVente": 377,
+      "qtestock": 75,
+      "imageartpetitf": "images/i13.jpeg"
+    },
+    {
+      "id": 12,
+      "reference": "Sauvage",
+      "designation": "Dior Sauvage Hommes 100 ml",
+      "marque": "Dior",
+      "prixVente": 465,
+      "qtestock": 720,
+      "imageartpetitf": "images/i14.jpeg"
+    },
+    {
+      "id": 13,
+      "reference": "My Way",
+      "designation": "Giorgio Armani My Way Intense, Femmes, 90 ml, Flacon rechargeable, Fleur d'oranger, Tubéreuse, Bois de santal, Vanille",
+      "marque": "Giorgio Armani",
+      "prixVente": 432.25,
+      "qtestock": 470,
+      "imageartpetitf": "images/i15.jpeg"
+    },
+    {
+      "id": 14,
+      "reference": "LA VIE EST BELLE",
+      "designation": "Eau De Parfum Pour Femme 100 ml",
+      "marque": "LANCÔME",
+      "prixVente": 392.8,
+      "qtestock": 230,
+      "imageartpetitf": "images/i16.jpeg"
+    },
+    {
+      "id": 15,
+      "reference": "FLOWER BY KENZO",
+      "designation": "Eau De Parfum Pour Femme 100 ml",
+      "marque": "KENZO",
+      "prixVente": 502,
+      "qtestock": 600,
+      "imageartpetitf": "images/i17.jpeg"
+    },
+    {
+      "id": 16,
+      "reference": "Gentleman",
+      "designation": "Eau De Parfum Pour Homme 60 ml",
+      "marque": "GIVENCHY",
+      "prixVente": 276,
+      "qtestock": 600,
+      "imageartpetitf": "images/i18.jpeg"
+    },
+    {
+      "id": 17,
+      "reference": "Aqua Allegoria",
+      "designation": "Aqua Allegoria - Mandarine Basilic Forte - Eau De Parfum 75ml",
+      "marque": "GUERLAIN",
+      "prixVente": 290.28,
+      "qtestock": 98,
+      "imageartpetitf": "images/i19.jpeg"
+    },
+    {
+      "reference": "Yves Saint Laurent Y",
+      "designation": "Eau De Parfum Intense - 100ml - Homme",
+      "marque": "Yves Saint Laurent ",
+      "prixAchat": "",
+      "prixVente": 478.95,
+      "qtestock": 340,
+      "imageartpetitf": "images/i4.jpeg",
+      "id": 18
+    },
+    {
+      "reference": "Boss",
+      "designation": "boss  Eau de parfum pour femme ",
+      "marque": "Boss",
+      "prixAchat": "",
+      "prixVente": 117,
+      "qtestock": 50,
+      "imageartpetitf": "images/i11.jpeg",
+      "id": 19
+    },
+    {
+      "reference": "KALOO BLUE",
+      "designation": "Kaloo Blue - Eau De Toilette Pour Enfant 100ml",
+      "marque": "KALOO",
+      "prixAchat": "",
+      "prixVente": 75,
+      "qtestock": 100,
+      "imageartpetitf": "images/i20.jpg",
+      "id": 20
+    },
+    {
+      "reference": "JACADI MADEMOISELLE",
+      "designation": "JACADI MADEMOISELLE  PETITE CERISE EAU DE TOILETTE 50ml",
+      "marque": "JACADI",
+      "prixAchat": "",
+      "prixVente": 106,
+      "qtestock": 50,
+      "imageartpetitf": "images/i21.jpg",
+      "id": 21
+    },
+    {
+      "reference": "JACADI Jeune Homme",
+      "designation": "JACADI JEUNE HOMME  EAU DE TOILETTE 50ml",
+      "marque": "JACADI",
+      "prixAchat": "",
+      "prixVente": 106,
+      "qtestock": 50,
+      "imageartpetitf": "images/i22.jpg",
+      "id": 22
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "nom": "ben salah",
+      "prenom": "salah",
+      "adresse": "rue sidi mansour",
+      "tel": "20666012"
+    },
+    {
+      "nom": "tounsi",
+      "prenom": "mohamed",
+      "adresse": "avenu 18 janvier",
+      "tel": "96444020",
+      "id": 2
+    },
+    {
+      "nom": "ben ali",
+      "prenom": "salim",
+      "adresse": "avenue habib bourguiba",
+      "tel": "58310660",
+      "id": 3
+    },
+    {
+      "nom": "Ben Hlima",
+      "prenom": "Chokri",
+      "adresse": "Route de Tunis , Sfax",
+      "tel": "97203100",
+      "id": 4
+    }
+  ]
+}
